@@ -1,0 +1,17 @@
+{
+  "name": "linkifyjs",
+  "main": "build/linkify.js",
+  "version": "2.0.0-beta.4",
+  "homepage": "https://github.com/EdtechFoundry/linkifyjs",
+  "authors": [
+    "kennethlynne <kenneth.lynne@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
